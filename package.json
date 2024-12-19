@@ -1,0 +1,18 @@
+{
+  "name": "week_3_proj_2_web_scrapping",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx tsx index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "puppeteer": "^23.11.0",
+    "typescript": "^5.7.2"
+  }
+}
