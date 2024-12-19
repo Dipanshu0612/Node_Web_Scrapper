@@ -11,7 +11,7 @@ const fetchData = async () => {
 
   setTimeout(async () => {
     await browser.close();
-  }, 2000);
+  }, 3000);
 };
 
 fetchData();
